@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
 
 ## Welcome to my profile. 
 
@@ -24,4 +21,4 @@ Talking about Personal Stuffs:
 
 ### Most Used Langauges    
     
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mern-dev-full&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
+
