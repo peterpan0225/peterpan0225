@@ -16,9 +16,6 @@ Talking about Personal Stuffs:
 
 <div align="center">
     
-### GitHub Contributions
-    
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=mern-dev-full)
 
 ### Most Used Langauges    
     
