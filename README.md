@@ -7,7 +7,7 @@ Talking about Personal Stuffs:
 
 - I'm a full-stack developer for large projects and ready to start your project anytime.
 - Enterprise application development and support
-- <b>Front-end</b> : Reactjs | Nextjs | Vuejs |Nuxtjs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap
+- <b>Front-end</b> : Reactjs | Nextjs | Vuejs | Nuxtjs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap
 - <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | Symfony | CodeIgniter
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
 - <b>CMS</b> : Wordpress | Shopify
